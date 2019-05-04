@@ -22,6 +22,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * 联系方式:qq644064779<br>
  * 注意:本内容有每特教育学员共同研发,请尊重原创版权
  */
+//修改
 @SpringBootApplication
 @EnableEurekaClient
 @EnableFeignClients
