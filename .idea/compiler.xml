@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-2.0-eureka-server" />
+        <module name="springcloud2.0-itmayiedu-api-member-service" />
+        <module name="springcloud2.0-itmayiedu-api-member-service-impl" />
+        <module name="springcloud2.0-itmayiedu-api-order-service" />
+        <module name="springcloud2.0-itmayiedu-api-order-service-impl" />
+        <module name="springcloud2.0-itmayiedu-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="springcloud-2.0-eureka-server" target="1.8" />
+      <module name="springcloud2.0-itmayiedu-api-member-service" target="1.8" />
+      <module name="springcloud2.0-itmayiedu-api-member-service-impl" target="1.8" />
+      <module name="springcloud2.0-itmayiedu-api-order-service" target="1.8" />
+      <module name="springcloud2.0-itmayiedu-api-order-service-impl" target="1.8" />
+      <module name="springcloud2.0-itmayiedu-api-service" target="1.8" />
+      <module name="springcloud2.0-itmayiedu-common" target="1.8" />
+      <module name="springcloud2.0-itmayiedu-eureka" target="1.7" />
+      <module name="springcloud2.0-itmayiedu-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
